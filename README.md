@@ -13,5 +13,5 @@ Branch description :
 
 clone the only branch needed
 ```
-git clone -b <branch> <remote_repo>
+git clone -b <branch> https://github.com/PublicVar/gulp-samples.git
 ```

@@ -1,7 +1,7 @@
 {
-  "name": "simplon_reunion",
+  "name": "Gulp File : Drupal 8",
   "version": "1.0.0",
-  "description": "",
+  "description": "SCSS, Livereload (scss, twig)",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

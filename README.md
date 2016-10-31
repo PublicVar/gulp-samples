@@ -15,3 +15,8 @@ clone the only branch needed
 ```
 git clone -b <branch> https://github.com/PublicVar/gulp-samples.git
 ```
+
+Install the modules 
+```
+npm install
+```

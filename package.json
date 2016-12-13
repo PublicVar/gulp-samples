@@ -1,5 +1,5 @@
 {
-  "name": "Gulp File : Drupal 8",
+  "name": "gulp_file_drupal_8",
   "version": "1.0.0",
   "description": "SCSS, Livereload (scss, twig)",
   "scripts": {

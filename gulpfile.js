@@ -4,6 +4,9 @@ sass = require('gulp-sass');
 
 gulp.task('styles', function() {
   gulp.src('./sass/**/*.scss')
+    // # Uncomment if you use bower install tbws-bootstrap.
+    // # it allows sass to include the bower bootstrap directory in the watch
+    //.pipe(sass({includePaths:'./bower_components/bootstrap-sass/assets/stylesheets'}))
     .pipe(sass().on('error', sass.logError))
     .pipe(gulp.dest('./css/')).
     pipe(livereload());;
